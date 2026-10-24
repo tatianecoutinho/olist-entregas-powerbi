@@ -4,7 +4,7 @@
 
 Análisis de retrasos, fletes y satisfacción del cliente en pedidos del e-commerce brasileño, con SQL para la extracción y agregación de los datos y Power BI para la visualización.
 
-(images/dashboard.png)
+   ![Dashboard](images/dashboard.png)
 
 ## Pregunta de negocio
 ¿Dónde se retrasan más las entregas, cuánto pesa el flete en cada región y cómo afecta el retraso a la nota que da el cliente?
