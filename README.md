@@ -2,8 +2,8 @@
 
 Análise de atrasos, frete e satisfação do cliente em pedidos do e-commerce brasileiro, com SQL para extração e agregação dos dados e Power BI para visualização.
 
-(images/dashboard.png)
-
+   ![Dashboard](images/dashboard.png)
+   
 ## Pergunta de negócio
 Onde as entregas atrasam mais, quanto o frete pesa em cada região e como o atraso afeta a nota dada pelo cliente?
 
