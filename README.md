@@ -1,3 +1,5 @@
+🇧🇷 Português | [🇪🇸 Español](README.es.md)
+
 # Entregas no E-commerce Brasileiro (Olist, 2016-2018)
 
 Análise de atrasos, frete e satisfação do cliente em pedidos do e-commerce brasileiro, com SQL para extração e agregação dos dados e Power BI para visualização.
